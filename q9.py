@@ -1,6 +1,3 @@
-# Question 9: Comments and Indentation
-# Program: Simple student score grader
-
 # --- Section 1: Data setup ---
 student_name = "Amina Bello"
 scores = [78, 92, 65, 49, 85]   # Scores for five subjects
